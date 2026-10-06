@@ -364,7 +364,7 @@ The complete interactive version of the dashboard is available on Tableau Public
 # 📁 Repository Structure
 
 ```text
-Sales-Customer-Dashboards
+sales-customer-performance-dashboards
 │
 ├── Dashboard
 │   └── Sales & Customer Dashboards.twbx
