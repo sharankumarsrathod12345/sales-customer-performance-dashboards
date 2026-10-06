@@ -375,9 +375,11 @@ Sales-Customer-Dashboards
 ├── Screenshots
 │   ├── sales-dashboard.png
 │   └── customer-dashboard.png
-│ 
+│
+├── LICENSE
+│
 ├── README.md
-│ 
+
 ```
 
 ---
