@@ -369,7 +369,7 @@ sales-customer-performance-dashboards
 ├── Dashboard
 │   └── Sales & Customer Dashboards.twbx
 │ 
-└── Documentation
+├── Documentation
 │   └── User-Story-Sales-Performance.md
 │ 
 ├── Screenshots
@@ -378,7 +378,7 @@ sales-customer-performance-dashboards
 │
 ├── LICENSE
 │
-├── README.md
+└── README.md
 
 ```
 
